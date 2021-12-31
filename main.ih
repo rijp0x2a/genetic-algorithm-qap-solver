@@ -1,0 +1,7 @@
+#include "testsuite/testsuite.h"
+
+#include "populationbase/populationbase.h"
+#include "populationux/populationux.h"
+#include "populationpmx/populationpmx.h"
+#include "populationmpx/populationmpx.h"
+#include "populationbls/populationbls.h"
